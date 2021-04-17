@@ -1,0 +1,11 @@
+{
+    "name": "aha/lumen-micro-core",
+    "description": "Enginge core package",
+    "license": "aha team",
+    "autoload": {
+        "psr-4": {
+            "Aha\\LumenMicroCore\\": "src"
+        }
+    },
+    "require": {}
+}
