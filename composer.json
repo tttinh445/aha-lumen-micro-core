@@ -1,5 +1,5 @@
 {
-    "name": "aha/lumen-micro-core",
+    "name": "aha-av/lumen-micro-core",
     "description": "Enginge core package",
     "license": "aha team",
     "autoload": {
