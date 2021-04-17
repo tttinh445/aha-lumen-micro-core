@@ -1,7 +1,8 @@
 {
     "name": "aha-av/lumen-micro-core",
-    "description": "Enginge core package",
-    "license": "aha team",
+    "description": "Lumen micro core package",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Aha\\LumenMicroCore\\": "src"
